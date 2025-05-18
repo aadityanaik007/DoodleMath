@@ -1,0 +1,33 @@
+backend/env
+gemini_test.py
+__pycache__
+*.pyc
+# Frontend dependencies
+frontend/node_modules/
+
+# Frontend build output
+frontend/dist/
+frontend/.vite/
+frontend/.vitepress/
+
+# TypeScript build info
+frontend/*.tsbuildinfo
+
+# Environment files
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# Logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Editor/IDE files
+frontend/.DS_Store
+frontend/Thumbs.db
+frontend/.vscode/
+frontend/.idea/
+
+# Optional: local config artifacts
+frontend/*.local
