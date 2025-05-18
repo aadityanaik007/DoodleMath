@@ -1,4 +1,5 @@
 # 🧮 MathAI - Handwritten Math Solver
+![Image url](https://github.com/user-attachments/assets/830ea495-5f6a-4b0d-b9ee-6589b58a546e)
 
 MathAI is a full-stack web application that allows users to draw math equations on a canvas and uses Google's Gemini API to interpret and solve them. It consists of a Vite + React frontend and a Python-based backend, all containerized with Docker Compose.
 
@@ -100,5 +101,4 @@ MIT © 2025 Your Name
 **Output Demo**
 
 ![Image url](https://github.com/user-attachments/assets/0122825a-41bb-4632-b18e-75adadfc1e2d)
-![Image url](https://github.com/user-attachments/assets/830ea495-5f6a-4b0d-b9ee-6589b58a546e)
 ![Image url](https://github.com/user-attachments/assets/f14f3e41-a74c-447f-8e4f-1d7c5a48ea11)
