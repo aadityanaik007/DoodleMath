@@ -1,7 +1,9 @@
 backend/env
+backend/.env
 gemini_test.py
 __pycache__
 *.pyc
+.gitignore
 # Frontend dependencies
 frontend/node_modules/
 
